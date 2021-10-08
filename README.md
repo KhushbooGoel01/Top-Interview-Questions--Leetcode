@@ -1,7 +1,56 @@
+[![MasterHead](https://user-images.githubusercontent.com/64991656/135403993-8436cfd2-5314-4c03-8509-d33e51c565b2.png)](https://hacktoberfest.digitalocean.com)
+<h1 align="center">Kickstart your Open-Source Journey!!</h1>
+<h3 align="center">Read It Carefully.</h3>
+
+
 # Top-Interview-Questions--Leetcode
-These are codes for Top Interview Questions from Leetcode.
-Do clone the repo and contribute your accepted code also, I would love to see it.😄
+These are solutions in Cpp, Java, Python for problems in [Top Interview Questions from Leetcode](https://leetcode.com/explore/interview/card/top-interview-questions-hard/).
+
+To understand and get the overview of Hacktoberfest, Check out [this video](https://youtu.be/QfPY3346TpI)
+
+# Here's a [DEMO video](https://youtu.be/VCUZK-o5eFg) of how to contribute.
+
+## Rules To Contribute To This Repo
+
+- You can write solutions in C/C++/Java/Python for a particular Question.
+- Follow file naming convention for all your pull requests.
+- While adding any content it should be inside its appropiate folder.
+- if there is any problem with inaccurate solution create an issue!
+
+## file naming convention
+
+| use                | file type                      | comments                                                                                                    |
+| ------------------ | ------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| new question           | **[question name]** (folder)                 | All solution files for this question should be under this folder
+| c++ solutions      | **cppSolution[question name].cpp**           | also comment the question link on the top
+
+## Steps For Contribution
+
+    1. Fork this repo
+    2. Star this repo
+    3. Add a file ( txt/cpp ) inside appropriate folder
+    4. commit the code
+    5. Make pull request
+
+---
 
 
-Get video solutions here:
-https://www.youtube.com/playlist?list=PLlMTxcUZWpmBjE3Zm8pdgGfvG2iPOqk7m
+## Ideas for contribution
+
+- Repo contain folders of Top-Interview-Questions by Leetcode. You can **add a solution** to a question that is unanswered.
+- You can **update existing solution** with a better one ( better complexity).
+- You can **add new questions** and solutions in diff. languages.
+- **solve issues** raised by other people or yourself.
+- make webpage ( hosted from GitHub readme ) more appealing and updated.
+
+
+
+## <h3 align="left">Connect with me:</h3>
+<p align="left">
+<!-- <a href="https://twitter.com/khushboogoel01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/khushboogoel01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
+<a href="https://instagram.com/_khushboo.goel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/khushboo goel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a>
+</p>
+
+ If you post about it on social media, Don't forget to tag me ;)
