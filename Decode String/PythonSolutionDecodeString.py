@@ -1,3 +1,5 @@
+# Question Link: https://leetcode.com/problems/decode-string
+
 class Solution:
     def decodeString(self, s: str) -> str:
         stack = []
@@ -19,5 +21,3 @@ class Solution:
                 stack.append(substr * int(k))
 
         return "".join(stack)
-
-
