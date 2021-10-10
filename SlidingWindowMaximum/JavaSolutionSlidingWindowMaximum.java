@@ -1,5 +1,6 @@
-class Solution {
-    public int[] maxSlidingWindow(int[] nums, int k) {
+# Question Link: https://leetcode.com/problems/sliding-window-maximum/
+
+public int[] maxSlidingWindow(int[] nums, int k) {
         int n=nums.length;
         int[] res=new int[n-k+1];
         int i=0,j=0;
@@ -29,4 +30,3 @@ class Solution {
         }
         return res;
     }
-}
