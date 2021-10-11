@@ -1,3 +1,5 @@
+## Do not make a PR without getting the issues assigned. Read Rules Carefully! 
+
 [![MasterHead](https://user-images.githubusercontent.com/64991656/135403993-8436cfd2-5314-4c03-8509-d33e51c565b2.png)](https://hacktoberfest.digitalocean.com)
 <h1 align="center">Kickstart your Open-Source Journey!!</h1>
 <h3 align="center">Read It Carefully.</h3>
@@ -13,9 +15,16 @@ To understand and get the overview of Hacktoberfest, Check out [this video](http
 ## Rules To Contribute To This Repo
 
 - You can write solutions in C/C++/Java/Python for a particular Question.
+- check your code twice before PR, only correct codes are going to be considered.
 - Follow file naming convention for all your pull requests.
 - While adding any content it should be inside its appropiate folder.
 - if there is any problem with inaccurate solution create an issue!
+- Do not create an duplicate issues, firstly check if that issue has been created already or not.
+- Do not make a PR without getting issues assigned to you! ( they will not be merged ).
+- Link your PR with the Issue no. .
+- if you don't work on the issue within 4 days, It will be assigned to other interested member.
+- make sure your read these rules twice.
+
 
 ## file naming convention
 
@@ -28,8 +37,9 @@ To understand and get the overview of Hacktoberfest, Check out [this video](http
 
     1. Fork this repo
     2. Star this repo
-    3. Add a file ( txt/cpp ) inside appropriate folder
-    4. commit the code
+    3. Get an issue assigned.
+    3. Work on the issssue, add a file ( txt/cpp ) inside appropriate folder
+    4. Commit the code
     5. Make pull request
 
 ---
