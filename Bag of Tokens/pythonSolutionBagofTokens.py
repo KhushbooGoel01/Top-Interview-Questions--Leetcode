@@ -1,16 +1,18 @@
 #Question link: https://leetcode.com/problems/bag-of-tokens/
 
-def bagOfTokensScore(self, tokens, P):
-        res = cur = 0
-        d = collections.deque(sorted(tokens))
-        
-        while d and (d[0] <= P or cur):
-            if d[0] <= P:
-                P -= d.popleft()
-                cur += 1
-            else:
-                P += d.pop()
-                cur -= 1
-            res = max(res, cur)
-            
-        return res
+class Solution(object):
+    def bagOfTokensScore(self, tokens, P):
+        tokens.sort()
+        deque = collections.deque(tokens)
+        ans = bns = 0
+        while deque and (P >= deque[0] or bns):
+            while deque and P >= deque[0]:
+                P -= deque.popleft()
+                bns += 1
+            ans = max(ans, bns)
+
+            if deque and bns:
+                P += deque.pop()
+                bns -= 1
+
+        return ans
