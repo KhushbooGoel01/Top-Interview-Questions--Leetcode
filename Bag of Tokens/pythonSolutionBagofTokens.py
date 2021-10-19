@@ -1,4 +1,4 @@
-Video link:
+#Question link: https://leetcode.com/problems/bag-of-tokens/
 
 def bagOfTokensScore(self, tokens, P):
         res = cur = 0

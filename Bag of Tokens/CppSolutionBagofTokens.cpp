@@ -1,4 +1,4 @@
-video Link:
+# Question Link: https://leetcode.com/problems/bag-of-tokens/
 
  int bagOfTokensScore(vector<int>& tokens, int P) {
         sort(tokens.begin(), tokens.end());
