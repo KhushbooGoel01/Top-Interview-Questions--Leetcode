@@ -1,4 +1,4 @@
-from typing import List
+# Link to question: https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/828/
 
 
 class Solution:
