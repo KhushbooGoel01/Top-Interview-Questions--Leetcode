@@ -1,5 +1,10 @@
 //Problem Link: https://leetcode.com/problems/3sum/
 
+//Approach : 2 Pointers 
+
+//TC = O(N^2)
+//SC = O(M)[for storage for answers]
+
 #include <bits/stdc++.h>
 using namespace std;
 
