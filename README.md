@@ -8,7 +8,7 @@
 # Top-Interview-Questions--Leetcode
 These are solutions in Cpp, Java, Python for problems in [Top Interview Questions from Leetcode](https://leetcode.com/explore/interview/card/top-interview-questions-hard/).
 
-To understand and get the overview of Hacktoberfest, Check out [this video](https://youtu.be/QfPY3346TpI)
+To understand and get an overview of Hacktoberfest, Check out [this video](https://youtu.be/QfPY3346TpI)
 
 # Here's a [DEMO video](https://youtu.be/VCUZK-o5eFg) of how to contribute.
 
@@ -16,14 +16,14 @@ To understand and get the overview of Hacktoberfest, Check out [this video](http
 
 - You can write solutions in C/C++/Java/Python for a particular Question.
 - check your code twice before PR, only correct codes are going to be considered.
-- Follow file naming convention for all your pull requests.
-- While adding any content it should be inside its appropiate folder.
-- if there is any problem with inaccurate solution create an issue!
-- Do not create an duplicate issues, firstly check if that issue has been created already or not.
+- Follow the file naming convention for all your pull requests.
+- While adding any content it should be inside its appropriate folder.
+- if there is any problem with an inaccurate solution create an issue!
+- Do not create duplicate issues, firstly check if that issue has been created already or not.
 - Do not make a PR without getting issues assigned to you! ( they will not be merged ).
-- Link your PR with the Issue no. .
-- if you don't work on the issue within 4 days, It will be assigned to other interested member.
-- make sure your read these rules twice.
+- Link your PR with the Issue number.
+- if you don't work on the issue within 4 days, It will be assigned to another interested member.
+- make sure you read these rules twice.
 
 
 ## file naming convention
@@ -35,23 +35,23 @@ To understand and get the overview of Hacktoberfest, Check out [this video](http
 
 ## Steps For Contribution
 
-    1. Fork this repo
-    2. Star this repo
+    1. Fork this repo.
+    2. Star this repo.
     3. Get an issue assigned.
-    3. Work on the issssue, add a file ( txt/cpp ) inside appropriate folder
-    4. Commit the code
-    5. Make pull request
+    3. Work on the issue, add a file ( txt/cpp ) inside the appropriate folder.
+    4. Commit the code.
+    5. Make a pull request.
 
 ---
 
 
 ## Ideas for contribution
 
-- Repo contain folders of Top-Interview-Questions by Leetcode. You can **add a solution** to a question that is unanswered.
-- You can **update existing solution** with a better one ( better complexity).
+- Repo contains folders of Top-Interview-Questions by Leetcode. You can **add a solution** to an unanswered question.
+- You can **update the existing solution** with a better one ( better complexity).
 - You can **add new questions** and solutions in diff. languages.
 - **solve issues** raised by other people or yourself.
-- make webpage ( hosted from GitHub readme ) more appealing and updated.
+- make a webpage ( hosted from GitHub readme ) more appealing and updated.
 
 
 
