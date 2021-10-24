@@ -52,6 +52,7 @@ To understand and get an overview of Hacktoberfest, Check out [this video](https
 - You can **add new questions** and solutions in diff. languages.
 - **solve issues** raised by other people or yourself.
 - make a webpage ( hosted from GitHub readme ) more appealing and updated.
+- You can add question link along with descrption to each folder.
 
 
 
