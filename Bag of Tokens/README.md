@@ -1,4 +1,4 @@
-[Question Link](https://leetcode.com/problems/bag-of-tokens/)
+# [Question Link](https://leetcode.com/problems/bag-of-tokens/)
 
 You have an initial power of power, an initial score of 0, and a bag of tokens where tokens[i] is the value of the ith token (0-indexed).
 
