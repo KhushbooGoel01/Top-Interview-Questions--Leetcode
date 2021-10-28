@@ -1,0 +1,42 @@
+[code]
+using System;
+using System.Drawing;
+
+namespace rotate
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            if (args.Length >= 2)
+            {
+                string url = args[0];
+                string rotateAmount = args[1];
+
+                string path = "image1.jpg";
+
+                //create an image object from the image in that path
+                System.Drawing.Image img = System.Drawing.Image.FromFile(path);
+
+                //Rotate the image in memory
+                img.RotateFlip(RotateFlipType.Rotate90FlipNone);
+
+                //Delete the file so the new image can be saved
+                System.IO.File.Delete(path);
+
+                //save the image out to the file
+                img.Save(path);
+
+                //release image file
+                img.Dispose();
+
+                // Wait for user to acknowledge the results.
+                Console.WriteLine(url + " " + rotateAmount);
+
+                Console.WriteLine("Press any key to quit!");
+                Console.Read();
+            }
+        }
+    }
+}
+[code]
