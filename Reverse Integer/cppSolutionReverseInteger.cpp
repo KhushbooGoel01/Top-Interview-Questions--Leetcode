@@ -1,6 +1,4 @@
-# Question Link: https://leetcode.com/problems/reverse-integer
-
-class cppSolutionReverseInteger { 
+class Solution {
 public:
     int reverse(int x) {
         int rev = 0;
